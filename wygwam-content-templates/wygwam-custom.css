@@ -1,0 +1,80 @@
+body {
+font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+font-size: 14px;
+}
+
+p {
+line-height: 20px;
+}
+
+.pull-right, .pull-right img {
+  float: right !important;
+  margin: 0 0 4px 12px;
+}
+.pull-left {
+  float: left !important;
+  margin: 4px .8rem 4px 0
+}
+
+figcaption {
+background: #e0e0e0;
+margin-top:-3px;
+padding: 4px;
+color: grey;
+}
+
+figcaption p {
+margin-left: 6px;
+}
+
+.photocredit {
+font-size: 12px;
+font-style: italic;
+color: gray;
+margin: 1em 0 2em 0;
+}
+
+figure img {
+margin:0;
+padding:0;
+}
+  
+.pullquote blockquote {
+	width: 340px;
+    float:left;
+    quotes: "\201C" "\201D" "\2018" "\2019";
+    font-style: italic;  
+    border: none;
+    font-family: Georgia, serif;
+    font-size: 22px;
+    line-height: 1.45;
+    margin: 0.25em 12px .5em 0;
+    padding: 0.25em 40px;
+    position: relative;
+    color: #383838;
+}
+
+.pullquote blockquote:before {
+  content: open-quote;
+  display: block;
+  content: "\201C";
+  font-size: 80px;
+  position: absolute;
+  left: -10px;
+  top: -20px;
+  color: #7a7a7a;
+}
+.pullquote blockquote:after {
+  content: no-close-quote;
+}  
+  
+.pullquote blockquote cite {
+	color: #999999;
+	font-size: 14px;
+	display: block;
+	margin-top: 5px;
+}
+ 
+.pullquote blockquote cite:before {
+	content: "\2014 \2009";
+}  
