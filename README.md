@@ -6,3 +6,7 @@ Here's a version of Content Templates for the ExpressionEngine WYGWAM field, whi
 Mike Mella (@mikemella) has provided an excellent screencast showing how to use and customize these files, which you can find here: http://belikewater.ca/blog/entry/wygwam-templates/. Mike was kind enough to provide his example files as a starting point, which I customized for this repo.
 
 I’m using this for the ExpressionEngine CMS, and most of Mike’s screencast relates to implementation using the Pixel & Tonic add-on field type WYGWAM. But the basic idea, and the files in this repo, should work with any other implementation of CKEditor.
+
+## Customizing
+
+Make sure to replace the server url in the wygwam-content-templates1.js file to the correct paths for your server.  You can edit that file to add or remove templates. 
