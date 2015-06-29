@@ -7,12 +7,12 @@
  	 		title:"Image on the left with caption",
  	 		image:"captioned-image-left.gif",
  	 		description:"Add an image on the left with a caption below it.",
- 	 		html:'<figure class="pull-left"><img src="https://will-dev.will.illinois.edu/themes/site_themes/will2.1/plugins/wygwam-content-templates/placeholder-image.png" alt=""><figcaption><p>Replace this text with your caption</p></figcaption><div class="photocredit">Photo Credit: </div></figure>'},
+ 	 		html:'<figure class="pull-left image-template"><img src="https://will-dev.will.illinois.edu/themes/site_themes/will2.1/plugins/wygwam-content-templates/placeholder-image.png" alt=""><figcaption><p>Replace this text with your caption</p></figcaption><div class="photocredit">Photo Credit: </div></figure>'},
  	 		{
  	 		title:"Image on the right with caption",
  	 		image:"captioned-image-right.gif",
  	 		description:"Add an image on the right with a caption below it.",
- 	 		html:'<figure class="pull-right"><img src="https://will-dev.will.illinois.edu/themes/site_themes/will2.1/plugins/wygwam-content-templates/placeholder-image.png" alt=""><figcaption><p>Replace this text with your caption</p></figcaption><div class="photocredit">Photo Credit: </div</figure>'},
+ 	 		html:'<figure class="pull-right image-template"><img src="https://will-dev.will.illinois.edu/themes/site_themes/will2.1/plugins/wygwam-content-templates/placeholder-image.png" alt=""><figcaption><p>Replace this text with your caption</p></figcaption><div class="photocredit">Photo Credit: </div</figure>'},
  	 		{
  	 		title:"Full-width with caption",
  	 		image:"captioned-image-800.gif",

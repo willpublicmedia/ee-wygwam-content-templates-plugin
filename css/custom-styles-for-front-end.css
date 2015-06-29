@@ -1,5 +1,9 @@
 /****************** Added Custom Styles for front end - Add these to your style sheet ***************/
 /******************************************************/
+.image-template {
+	width:300px;
+}
+
 .pullquote blockquote {
 	width: 340px;
     float:left;
