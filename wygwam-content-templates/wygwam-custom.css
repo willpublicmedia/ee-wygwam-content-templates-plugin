@@ -10,6 +10,7 @@ line-height: 20px;
 .pull-right, .pull-right img {
   float: right !important;
   margin: 0 0 4px 12px;
+  display:block;
 }
 .pull-left {
   float: left !important;
@@ -38,6 +39,10 @@ figure img {
 margin:0;
 padding:0;
 }
+
+.image-template {
+	width:300px;
+}  
   
 .pullquote blockquote {
 	width: 340px;
