@@ -1,7 +1,3 @@
-/*
- Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
- */
  CKEDITOR.addTemplates("default",{imagesPath:CKEDITOR.getUrl("//will.illinois.edu/themes/site_themes/will2.1/plugins/wygwam-content-templates/"),
  	 	templates:[{
  	 		title:"Image on the left with caption",
